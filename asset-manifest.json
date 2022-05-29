@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vasiti-project/static/css/main.69e1db1c.css",
+    "main.js": "/vasiti-project/static/js/main.ddcc4611.js",
+    "index.html": "/vasiti-project/index.html",
+    "main.69e1db1c.css.map": "/vasiti-project/static/css/main.69e1db1c.css.map",
+    "main.ddcc4611.js.map": "/vasiti-project/static/js/main.ddcc4611.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69e1db1c.css",
+    "static/js/main.ddcc4611.js"
+  ]
+}
